@@ -2,6 +2,12 @@
 
 **Your job search, in motion.** Jobvora is an AI-powered job search and application platform that helps you discover matching roles, tailor your application materials, and automate the tedious parts of applying — so you can spend less time filling out forms and more time interviewing.
 
+## Dashboard Preview
+
+<p align="center">
+  <img src="assets/dashboard.png" alt="Dashboard Preview" width="100%" />
+</p>
+
 ## Features
 
 -  **Smart job discovery** — search for roles that match your skills, goals, and preferred way of working
